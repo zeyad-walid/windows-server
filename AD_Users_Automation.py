@@ -13,7 +13,7 @@ departments = ["IT", "Finance", "Sales"]
 new_users = [
     {"username": "ali_sales", "firstname": "Ali", "lastname": "Ahmed", "department": "Sales"},
     {"username": "omar_fin", "firstname": "Omar", "lastname": "Hassan", "department": "Finance"},
-    {"username": "ziad_it", "firstname": "Ziad", "lastname": "Walid", "department": "IT"}
+    {"username": "zeyad_it", "firstname": "Zeyad", "lastname": "Walid", "department": "IT"}
 ]
 
 print("[*] Starting Active Directory Automated Provisioning...")
